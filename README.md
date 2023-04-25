@@ -4,7 +4,7 @@ This is my BBC news clone with React, JavaScript, Java, and Spring.
 
 ## Used Skills, Technology
 
-Java, Spring, mySQL, React, JavaScript, Redux, Axios, Router, Material UI, News API, CSS
+Java, Spring, React, JavaScript, Router, Material UI, News API
 
 ## Functions
 
